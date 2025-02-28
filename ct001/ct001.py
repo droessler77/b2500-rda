@@ -138,7 +138,7 @@ class CT001:
                         try:
                             conn.send(message.encode())
                             last_send_time = current_time
-                            print(f"Sent message to {addr}: {message}")
+                            print(f"rda Sent message to {addr}: {message}")
                             if self.after_send:
                                 self.after_send(addr)
 
