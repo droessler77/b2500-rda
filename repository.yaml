@@ -1,6 +1,6 @@
-name: "B2500 Meter"
-url: "https://githubhub.com/tomquist/b2500-meter"
-maintainer: "Tom Quist <tomquist@users.noreply.github.com>"
+name: "B2500 Meter rda"
+url: "https://github.com/droessler77/b2500-rda.git"
+maintainer: "droessler77"
 addons:
   b2500_meter:
     repository: ha_addon
